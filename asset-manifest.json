@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cooking-ninja/static/css/main.d03dfcf5.css",
+    "main.js": "/cooking-ninja/static/js/main.9d247fdc.js",
+    "index.html": "/cooking-ninja/index.html",
+    "main.d03dfcf5.css.map": "/cooking-ninja/static/css/main.d03dfcf5.css.map",
+    "main.9d247fdc.js.map": "/cooking-ninja/static/js/main.9d247fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03dfcf5.css",
+    "static/js/main.9d247fdc.js"
+  ]
+}
