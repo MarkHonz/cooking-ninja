@@ -74,6 +74,19 @@
       "method": "Bake it till u like it.",
       "cookingTime": "20 minutes",
       "id": "JhUuNhA"
+    },
+    {
+      "title": "Shrimp Bruschetta Risotto",
+      "ingredients": [
+        "8 oz Shrimp",
+        "3/4 cup Arborio Rice",
+        "2 oz Shredded Asiago Cheese",
+        ".6 oz Butter",
+        "2 Garlic Cloves"
+      ],
+      "method": "Prepare Ingredients",
+      "cookingTime": "45 minutes",
+      "id": "xCck66b"
     }
   ]
 }
